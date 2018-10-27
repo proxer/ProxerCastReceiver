@@ -1,0 +1,13 @@
+{
+  "name": "proxer-cast-receiver",
+  "version": "1.0.0",
+  "description": "Custom Google Cast receiver for Proxer.Me",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "http-server --port $PORT"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
